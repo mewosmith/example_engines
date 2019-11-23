@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<diff>
+    <add sel="/index">
+        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\example_engines\engine_macros\engine_arg_s_prototype_01_mk1_macro" />
+    </add>
+</diff>
